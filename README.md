@@ -1,3 +1,13 @@
+App- preview
+![image](https://github.com/stayadi07/freshLook-ecommerce/assets/98824627/570119e8-79d5-463d-be71-4686d87dcb5c)
+![image](https://github.com/stayadi07/freshLook-ecommerce/assets/98824627/35fc487d-75cc-49be-91d2-40767f1f06de)
+![image](https://github.com/stayadi07/freshLook-ecommerce/assets/98824627/2e4d7bcb-a20e-4ab8-bc78-81e7681590da)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
