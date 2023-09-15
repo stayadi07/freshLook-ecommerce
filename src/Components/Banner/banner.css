@@ -1,0 +1,125 @@
+.fresh-text {
+  color: #fff;
+  font-family: "Syne", sans-serif;
+  font-size: 135px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 102.6px;
+  padding-top: 42px;
+  padding-left: 115px;
+}
+
+.year-text {
+  font-family: "Syne", sans-serif;
+  font-size: 135px;
+  font-style: normal;
+  font-weight: 800;
+  color: transparent;
+  -webkit-text-stroke: 2px white;
+  padding-left: 424px;
+}
+
+.look-text {
+  color: #fff;
+  font-family: Syne;
+  font-size: 135px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 102.6px;
+  padding-left: 187px;
+}
+
+.starline-divider-container {
+  display: flex;
+}
+
+.star-divider-line {
+  width: 976px;
+  height: 1px;
+  background: #fff;
+  margin-top: 57.51px;
+}
+
+.background-orange {
+  width: 73%;
+  height: 400.301px;
+  background: var(--Primary-colour, #f07e15);
+  position: absolute;
+  top: 73%;
+  left: 51%;
+  transform: translate(-33%, -46%);
+  /* padding: 23px; */
+  /* margin-left: 20px; */
+}
+
+.overlay-content {
+  position: absolute;
+  top: 35%;
+  left: 6.5%;
+  transform: translate(-50%, -48%);
+  padding: 20px;
+}
+
+.seemore-text {
+  color: #fff;
+  /* font-family: Work Sans; */
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.see-more-arrow-container {
+  display: flex;
+  color: #fff;
+  width: 100px;
+  border: 1px solid #fff;
+
+  align-items: center;
+  justify-content: space-evenly;
+  position: absolute;
+  left: 12%;
+  top: 93%;
+}
+
+.model-image-container {
+  position: absolute;
+  top: 29%;
+  left: 20%;
+  transform: translate(127%, -5%);
+  padding: 20px;
+  opacity: 0.9;
+  background-image: url("../../Assets/Star_3.png");
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+.jacket-name {
+  color: #161615;
+  /* font-family: Work Sans; */
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: uppercase;
+  position: absolute;
+  top: 86%;
+  left: 88%;
+  /* transform: translate(-50%, -9%); */
+  padding: 20px;
+}
+
+.jacket-price {
+  color: #161615;
+  /* font-family: Work Sans; */
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: uppercase;
+  position: absolute;
+  top: 89%;
+  left: 88%;
+  /* transform: translate(-50%, -9%); */
+  padding: 20px;
+}

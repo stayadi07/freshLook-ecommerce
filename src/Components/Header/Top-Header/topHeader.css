@@ -1,0 +1,51 @@
+.top-header-main-container {
+  display: flex;
+  background: #1a1a1a;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  padding: 15px 90px;
+}
+
+.top-header-text {
+  color: #626262;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.left-side-content-container {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+}
+
+.divider-line {
+  background: #626262;
+  width: 1px;
+  height: 19px;
+}
+
+.delivery-truck-container {
+  display: flex;
+  gap: 7px;
+}
+
+.right-side-content-container {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+}
+
+.follow-us-social-website-container {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.social-website-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}

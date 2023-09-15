@@ -1,0 +1,34 @@
+.main-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0 90px;
+}
+
+.main-header-text {
+  color: #fff;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 275;
+  line-height: normal;
+}
+
+.wishlist-bag-text {
+  color: #fff;
+  font-size: 14px;
+  /* font-family: "Work", sans-serif; */
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.wishlist-bag-box {
+  display: flex;
+  gap: 10px;
+}
+
+.main-header-divider-line {
+  background: #fff;
+  height: 1px;
+  margin: 0 90px;
+}

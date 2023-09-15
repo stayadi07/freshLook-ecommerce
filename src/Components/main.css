@@ -1,0 +1,9 @@
+.main-container {
+  background: url("../Assets/Background.png"),
+    lightgray 0% 0% / 100.84999799728394px 100.84999799728394px repeat;
+  mix-blend-mode: overlay;
+  background-color: rgb(14, 14, 14);
+  /* height: 749px; */
+  padding-bottom: 30px;
+  min-height: 850px;
+}

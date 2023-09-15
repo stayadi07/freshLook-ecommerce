@@ -1,0 +1,38 @@
+.main-content-wrapper {
+  padding-top: 70px;
+  padding-left: 86px;
+}
+
+.main-content-header-name {
+  color: var(--Grey-scale-1000, #000);
+
+  font-family: "Syne", sans-serif;
+  font-size: 90px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.main-content-header-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 406px;
+  /* padding-top: 70px;
+  padding-left: 86px; */
+}
+
+.star-divider-line-container {
+  display: flex;
+  align-items: center;
+}
+
+.main-content-divider-line {
+  background: var(--Grey-scale-1000, #161615);
+  width: 648px;
+  height: 1px;
+}
+
+.arrows-container {
+  display: flex;
+  gap: 48px;
+}

@@ -1,0 +1,95 @@
+.contact-wrapper {
+  display: flex;
+  background: url("../../Assets/Background-Contact.png"),
+    lightgray 50% / cover no-repeat;
+  height: 520px;
+  flex-direction: column;
+}
+
+.newsletter-container {
+  width: 385px;
+}
+
+.newsletter-contact-wrapper {
+  display: flex;
+  gap: 128px;
+  margin-top: 82px;
+  margin-left: 106px;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  width: 558px;
+}
+
+.newsletter-text {
+  color: var(--Grey-Scale-200, rgba(255, 255, 255, 0.5));
+
+  font-family: "Syne";
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.newsletter-desc {
+  color: var(--Grey-Scale-200, rgba(255, 255, 255, 0.5));
+  /* font-family: Work Sans; */
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.input-fields-contact {
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: none;
+  padding-bottom: 2px;
+  color: #fff;
+}
+
+.big-font-button-container {
+  padding-top: 38px;
+  padding-left: 90px;
+}
+
+.big-font-text {
+  color: var(--Grey-scale-000, #fff);
+
+  font-family: "Syne";
+  font-size: 135px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 102.6px;
+}
+
+.big-font-button-container {
+  display: flex;
+}
+
+.send-text {
+  color: var(--Pimary-colour, #f07e15);
+  /* font-family: Work Sans; */
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+}
+
+.send-btn {
+  background-color: transparent;
+  border: 1px solid var(--Pimary-colour, #f07e15);
+  color: var(--Pimary-colour, #f07e15);
+  /* font-family: Work Sans; */
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  /* line-height: 16px; */
+  width: 181px;
+  height: 181px;
+  border-radius: 50%;
+  cursor: pointer;
+}

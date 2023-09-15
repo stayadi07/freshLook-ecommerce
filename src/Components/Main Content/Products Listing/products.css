@@ -1,0 +1,88 @@
+.products-menubar-container {
+  padding-top: 34px;
+  display: flex;
+  align-items: flex-start;
+  gap: 97px;
+}
+
+.menubar-container {
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+}
+
+.menubar-small-contents {
+  color: var(--Grey-scale-1000, #000);
+  font-family: Work Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.menubar-small-contents:nth-child(2) {
+  color: var(--Grey-scale-1000, #000);
+  font-family: Syne;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.products-wrapper {
+  display: flex;
+  gap: 26px;
+  flex-wrap: wrap;
+  padding-bottom: 105px;
+}
+
+.products-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.product-name {
+  color: var(--Grey-scale-1000, #000);
+  font-family: Syne;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.product-description {
+  color: var(--Greyscale-400, rgba(22, 22, 21, 0.5));
+  font-family: Work Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.product-price {
+  color: var(--Grey-scale-1000, #000);
+  font-family: Syne;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.image-arrow-container {
+  background: url("../../../Assets/Philip.png"), lightgray 50% / cover no-repeat;
+  width: 310px;
+  height: 322px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-end;
+}
+
+.product-description-price-name {
+  padding-top: 12px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 310px;
+}
