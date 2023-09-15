@@ -1,4 +1,5 @@
 App- preview
+Link to open app - https://stellar-sawine-adc4d5.netlify.app/
 ![image](https://github.com/stayadi07/freshLook-ecommerce/assets/98824627/570119e8-79d5-463d-be71-4686d87dcb5c)
 ![image](https://github.com/stayadi07/freshLook-ecommerce/assets/98824627/35fc487d-75cc-49be-91d2-40767f1f06de)
 ![image](https://github.com/stayadi07/freshLook-ecommerce/assets/98824627/2e4d7bcb-a20e-4ab8-bc78-81e7681590da)
